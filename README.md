@@ -1,56 +1,36 @@
-# Chirpy Starter
+# Blog Content Repository
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+## Overview
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+Welcome to the GitHub repository that serves as the storage and versioning system for my technical blog. This repository is not just a collection of blog posts; it's a growing knowledge base and a context provider for my continuous learning journey.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## Purpose
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+The primary goal of this repository is to:
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+1. **Store Blog Content**: It contains all the blog posts, drafts, and notes that I've written for my blog. This includes technical tutorials, personal experiences, insights into the Software Engineering world, and my exploration in AI and other emerging technologies.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+2. **Facilitate Learning and Revision**: By maintaining this repository, I aim to create a comprehensive knowledge base. It's a resource I can revisit for refreshing concepts, reviewing past learnings, and tracking my professional and personal growth over time.
 
-## Prerequisites
+3. **Encourage Continuous Development**: This repository is a testament to my commitment to never stop learning. It's a platform where I can measure my progress, update my understanding, and keep up with the latest trends and technologies in the industry.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+4. **Share Knowledge**: While this repository serves my personal growth, it's also open for others to explore, learn, and perhaps find inspiration. I believe in the power of community and shared learning.
 
-## Installation
+## Repository Structure
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+- `/_posts` - Contains all the published blog posts.
+- `/drafts` - Includes the articles and notes that are works in progress.
+- `/notes` - A collection of quick thoughts, learning snippets, and ideas worth exploring.
 
-Then clone it to your local machine and run:
+## Contributing
 
-```console
-$ bundle
-```
+While this repository primarily serves my personal development, contributions in the form of suggestions, corrections, or topic requests are welcome. Feel free to open an issue or submit a pull request.
 
-## Usage
+## Stay Updated
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+For the latest posts and updates, visit [h1shc0d3.github.io](#) (h1shc0d3.github.io).
 
-## License
+Thank you for being part of this journey. Let's learn and grow together!
 
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+Best,
+h1shc0d3
