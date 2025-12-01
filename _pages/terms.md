@@ -1,39 +1,40 @@
 ---
 permalink: /terms/
-title: "Terms and Privacy Policy"
+title: "Warunki i Polityka Prywatności"
 modified: 2016-06-06
 ---
 
 {% include base_path %}
 {% include toc %}
 
-## Privacy Policy
+## Polityka Prywatności
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Prywatność moich odwiedzających jest niezwykle ważna. Niniejsza Polityka Prywatności określa rodzaje osobistych informacji, które są odbierane i gromadzone oraz sposób ich wykorzystania.
 
-First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
+Przede wszystkim, nigdy nie udostępnię Twojego adresu e-mail ani żadnych innych osobistych informacji nikomu bez Twojej bezpośredniej zgody.
 
-### Log Files
+### Pliki dziennika
 
-Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include:
+Podobnie jak wiele innych stron internetowych, ta strona korzysta z plików dziennika, aby dowiedzieć się, kiedy, skąd i jak często ruch dociera do tej strony. Informacje w tych plikach dziennika obejmują:
 
-* Internet Protocol addresses (IP)
-* Types of browser
-* Internet Service Provider (ISP)
-* Date and time stamp
-* Referring and exit pages
-* Number of clicks
+* Adresy protokołu internetowego (IP)
+* Typy przeglądarek
+* Dostawca usług internetowych (ISP)
+* Daty i godziny
+* Strony odsyłające i wyjściowe
+* Liczba kliknięć
 
-All of this information is not linked to anything that is personally identifiable.
+Wszystkie te informacje nie są powiązane z żadnymi danymi osobowymi.
 
-### Cookies and Web Beacons
+### Ciasteczka i sygnały webowe
 
-When you visit this site "convenience" cookies are stored on your computer when you submit a comment to help you log in faster to [Disqus](https://disqus.com) the next time you leave a comment.
+Kiedy odwiedzasz tę stronę, "ciasteczka" są przechowywane na Twoim komputerze, gdy przesyłasz komentarz, aby pomóc Ci szybciej zalogować się do [Disqus](https://disqus.com) następnym razem, gdy zostawisz komentarz.
 
-Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.
+Reklamodawcy zewnętrzni mogą również umieszczać i odczytywać ciasteczka w Twojej przeglądarce i/lub używać sygnałów webowych do zbierania informacji. Ta strona nie ma dostępu ani kontroli nad tymi ciasteczkami. Powinieneś zapoznać się z odpowiednimi politykami prywatności wszelkich serwerów reklamowych zewnętrznych, aby uzyskać więcej informacji na temat ich praktyk i sposobów rezygnacji.
 
-If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers' websites.
+Jeśli chcesz wyłączyć ciasteczka, możesz to zrobić w opcjach swojej przeglądarki internetowej. Instrukcje dotyczące tego można znaleźć na stronach internetowych poszczególnych przeglądarek.
 
 #### Google Analytics
 
-Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](https://www.google.com/analytics/learn/privacy.html).
+Google Analytics to narzędzie analityczne, którego używam, aby zrozumieć, jak odwiedzający angażują się w tę stronę internetową. Raportuje trendy na stronie internetowej, korzystając z ciasteczek i sygnałów webowych, nie identyfikując indywidualnych odwiedzających. Możesz przeczytać [Politykę Prywatności Google Analytics](https://www.google.com/analytics/learn/privacy.html).
+
